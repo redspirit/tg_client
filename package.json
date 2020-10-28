@@ -1,0 +1,22 @@
+{
+  "name": "tg_client",
+  "version": "1.0.0",
+  "description": "Телеграм клиент для общения с ботами",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redspirit/tg_client.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redspirit/tg_client/issues"
+  },
+  "homepage": "https://github.com/redspirit/tg_client#readme",
+  "dependencies": {
+    "telegram": "^1.0.0-alpha.2"
+  }
+}
